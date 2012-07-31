@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="uniMota"
+  id="myeclipse.1343704104525"
+  context-root="/uniMota"
+  j2ee-spec="6.0"
+  archive="uniMota.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
